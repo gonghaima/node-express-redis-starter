@@ -24,3 +24,15 @@ curl http://localhost:3000/store/my-key\?some\=value\&some-other\=other-value
 ```sh
 curl http://localhost:3000/my-key
 ```
+
+## to run it locally
+
+install redis-server
+
+## run command
+
+redis-server
+
+## run node
+
+npm start

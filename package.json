@@ -7,7 +7,7 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "Hugo Di Francesco",
+  "author": "StevenG",
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.3",
